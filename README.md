@@ -5,7 +5,7 @@ Idea: Getting started with arduino on minimum budget.
 
 Goal: 
  - Have fun playing with the arduino platform and learn what we can do with it.
- - Build up our team (my son 11 yerars and myself having a lot of experince in software development and a background in electronics)
+ - Build up our team: My 11 year old son (having little experience) and myself (having a lot of experince in software development and a background in electronics)
 
 
 Material
