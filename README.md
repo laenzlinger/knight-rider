@@ -34,5 +34,9 @@ We used a modern iterative development approach. Start with the simples possible
  7. Select speed or brightness control by using switches (digitalRead)
 
  
+Wiring
+-------
+![wiring](https://github.com/laenzlinger/knight-rider/blob/master/wiring.jpg?raw=true)
+
 
 
